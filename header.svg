@@ -37,7 +37,6 @@
   					-webkit-text-fill-color: transparent;
 				  	background-size: 300% 300%;
   					-webkit-animation: gradient-text 3s ease infinite;
-  					animation: gradient-text 3s ease infinite;
 					animation: rotate ease-in-out 1s infinite alternate;
 
   
