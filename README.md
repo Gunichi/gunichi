@@ -35,13 +35,14 @@
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
   <br>
 
-</p>
+
 <a href="https://github.com/gunichi">
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
 
 </a>
 <br/>
 <br/>
+</p>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
