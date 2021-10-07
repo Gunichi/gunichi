@@ -34,7 +34,7 @@
   ![Trello](https://img.shields.io/badge/-Trello-FFFFFF?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
   <br>
-
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" style="border-radius:50%" align="right" alt="Programming"><br>
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/iuricode/)&nbsp;&nbsp;<br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/iuricode/)
 
