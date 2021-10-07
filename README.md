@@ -7,7 +7,7 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 <p align="left">
   
-  ![PHP](https://img.shields.io/badge/PHP-ffffffffffff?style=for-the-badge&logo=php&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-fffffff?style=for-the-badge&logo=php&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=whitee)
   ![Java](https://img.shields.io/badge/Java-ffffffffffff?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ffffffffffff?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,7 +23,7 @@
 
 <h3>👨‍💻 Ferramentas de Desenvolvimento</h3>
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=laravel&logoColor=white))
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
