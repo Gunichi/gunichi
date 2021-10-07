@@ -42,7 +42,8 @@
 
 				p {
 					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;						Arial,
+					text-shadow: 0 1px 0 #efefef;						Arial,						Arial,
+
 
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
@@ -51,7 +52,8 @@
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
 				<h1>aaa</h1>
-			</div>
+			</div>						Arial,
+
 		</div>
 	</foreignObject>
 </svg>
