@@ -35,7 +35,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
   <br>
   
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/iuricode/)
  </p>
 <br/>
 
