@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=gunichi&color=006bed)
-
+<h3> Opa, bem vindo ao meu perfil! Me chamo Gunichi!
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
