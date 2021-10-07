@@ -43,8 +43,8 @@
 					margin: 20;
   					letter-spacing: 5px;
   					text-align: center;
-  					background: -o-linear-gradient(45deg,#ff8a00,#e52e71,#044bea,#7a00ff);
-  					background: linear-gradient(45deg,#ff8a00,#e52e71,#044bea,#7a00ff);
+  					background: rgb(43,43,43);
+background: linear-gradient(90deg, rgba(43,43,43,1) 0%, rgba(255,255,255,1) 43%, rgba(84,84,84,1) 100%);
  					-webkit-background-clip: text;
   					-webkit-text-fill-color: transparent;
   					background-size: 300% 300%;
