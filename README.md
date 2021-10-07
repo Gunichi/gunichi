@@ -1,9 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
 		<img src="header.svg" width="800" height="200" alt="Click to see the source">
-	</a>
-	<br>
 </div>
 <h1>Bem vindo </h1>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" style="border-radius:50%" align="right" alt="Programming"><br>
