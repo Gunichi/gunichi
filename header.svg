@@ -22,10 +22,21 @@
 
 				h1 {
 					font-size: 72px;
-  					background: -webkit-linear-gradient(#eee, #333);
-  					-webkit-background-clip: text;
-  					-webkit-text-fill-color: transparent;
+  					background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+					-webkit-background-clip: text;
+					-webkit-text-fill-color: transparent;
+					-webkit-animation: hue 10s infinite linear;
 				}
+
+				@-webkit-keyframes hue {
+  					from {
+    					-webkit-filter: hue-rotate(0deg);
+  				}
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}
+
 
 				p {
 					font-size: 20px;
