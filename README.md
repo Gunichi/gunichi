@@ -36,8 +36,9 @@
   <br>
 
 [![card](https://github-readme-stats.vercel.app/api?username=gunichi&theme=dark)](https://github.com/gunichi/)<br><br>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gunichi&hide=html&layout=compact&theme=dark)](https://github.com/gunichi/)
 <img src="https://github.com/Gunichi/gunichi/blob/main/Static%20assets-bro.svg" min-width="400px" max-width="400px" width="400px" style="border-radius:50%" align="right" alt="Programming"><br>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gunichi&hide=html&layout=compact&theme=dark)](https://github.com/gunichi/)
+
 <br>
 
 
