@@ -6,6 +6,7 @@
 	<br>
 </div>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" style="border-radius:50%" align="right" alt="Programming"><br>
+<h1>Bem vindo </h1>
   Opa, seja bem vindo ao meu perfil! Me chamo Gustavo Gunichi Koyama, atualmente estudo Análise e Desenvolvimento de sistemas e trabalho com desenvolvimento back-end e front-end.
 
 
