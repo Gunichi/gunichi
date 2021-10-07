@@ -1,12 +1,11 @@
 
 ![](https://komarev.com/ghpvc/?username=gunichi&color=006bed)
 <h3> Opa, bem vindo ao meu perfil! Me chamo Gunichi!
-<h3> :woman: &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+<h3> 😬: &nbsp;Sobre mim </h3>
+  
+- 🎓 &nbsp; Atualmente estudo 'Análise e desenvolvimento de sistemas' na faculdade UNA.
+- 💼 &nbsp; Trabalho alocado na empresa QuickCheck como desenvolvedor FullStack
+- 🌱 &nbsp; Estou sempre procurando aprender novas linguagens, porém atualmente estou focado em aprender ReactJS & NextJS.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
