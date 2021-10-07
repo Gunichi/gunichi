@@ -28,7 +28,7 @@
 				}
 
 				h1 {
-					  font-size: 180px;
+					  font-size: 150px;
   font-weight: 700;
   line-height: 120px;
   letter-spacing: 5px;
