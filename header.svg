@@ -40,7 +40,7 @@
 						'Apple Color Emoji',
 						'Segoe UI Emoji';	
   font-weight: 700;
-margin: 50;
+margin: 30;
   letter-spacing: 5px;
   text-align: center;
   background: -o-linear-gradient(45deg,#ff8a00,#e52e71,#044bea,#7a00ff);
