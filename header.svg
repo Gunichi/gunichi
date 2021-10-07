@@ -4,7 +4,15 @@
 			<style>
 				
 				.container {
-					font-family: 'Roboto'				
+					font-family: system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';				
 					display: flex;
 					flex-direction: column;
 					align-items: center;
@@ -22,7 +30,6 @@
 				h1 {
 					  font-size: 100px;
   font-weight: 700;
-				font-family: 'Segoe UI'
   line-height: 120px;
   letter-spacing: 5px;
   text-align: center;
