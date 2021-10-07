@@ -38,8 +38,8 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-size: 300% 300%;
-  -webkit-animation: gradient-text 8s ease infinite;
-          animation: gradient-text 8s ease infinite;
+  -webkit-animation: gradient-text 3s ease infinite;
+          animation: gradient-text 3s ease infinite;
   
 }
 @-webkit-keyframes gradient-text {
