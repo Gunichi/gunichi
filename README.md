@@ -44,7 +44,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-<br/>
+<br>
+
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
