@@ -15,9 +15,9 @@
   ![CSS](https://img.shields.io/badge/CSS-100000?&style=for-the-badge&logo=css3&logoColor=1572B6)
   ![SASS](https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=sass&logoColor=CC6699)
   ![React](https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![MySQL](https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-100000?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=00000F)
+  ![Laravel](https://img.shields.io/badge/Laravel-100000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+  ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=E23237)
   
  </p>
 
