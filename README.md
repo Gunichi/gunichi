@@ -34,15 +34,11 @@
   ![Trello](https://img.shields.io/badge/-Trello-FFFFFF?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
   <br>
-
-
-<a href="https://github.com/gunichi">
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
-
-</a>
+  
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
+ </p>
 <br/>
-<br/>
-</p>
+
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
