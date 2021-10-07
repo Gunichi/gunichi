@@ -7,17 +7,17 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 <p align="left">
   
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-ffffffffffff?style=for-the-badge&logo=php&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=whitee)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ffffffffffff?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ffffffffffff?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML-ffffff?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-ffffff?&style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/Sass-ffffff?style=for-the-badge&logo=sass&logoColor=white)
+  ![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&logoColor=white)
   
  </p>
 
