@@ -46,7 +46,7 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-gunichi-koyama-a1405a213/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xJpHBmQnz2)
+[![Discord](https://img.shields.io/badge/Discord-000001?style=for-the-badge&logo=discord&logoColor=40E0D0)](https://discord.gg/xJpHBmQnz2)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/gunichi)
 
 
