@@ -33,7 +33,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-FFFFFF?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-FFFFFF?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
 
 
 <br/>
@@ -41,6 +40,8 @@
 </p>
 <a href="https://github.com/gunichi">
 </a>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
+
 
 <br/>
 
