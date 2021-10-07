@@ -34,7 +34,7 @@
   ![Trello](https://img.shields.io/badge/-Trello-FFFFFF?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
   <br>
-<img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gifv" min-width="400px" max-width="400px" width="400px" style="border-radius:50%" align="right" alt="Programming"><br>
+<img src="" min-width="400px" max-width="400px" width="400px" style="border-radius:50%" align="right" alt="Programming"><br>
 [![card](https://github-readme-stats.vercel.app/api?username=gunichi&theme=dark)](https://github.com/gunichi/)<br><br>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gunichi&hide=html&layout=compact&theme=dark)](https://github.com/gunichi/)
 
