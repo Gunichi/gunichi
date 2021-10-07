@@ -18,8 +18,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=00000F)
   ![Laravel](https://img.shields.io/badge/Laravel-100000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
   ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=E23237)
-  
- </p>
+ 
 
 <h3>👨‍💻 Ferramentas de Desenvolvimento</h3>
 
@@ -30,7 +29,7 @@
 
 <br/>
 </p>
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/gunichi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
 </a>
 
