@@ -37,7 +37,9 @@
 <br/>
 </p>
 <a href="https://github.com/gunichi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
+
 </a>
 
 <br/>
