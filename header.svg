@@ -26,7 +26,7 @@
 					text-align: center;
 				}
 
-				h1 {
+				p {
 					font-size: 100px;
   					letter-spacing: 5px;
   					text-align: center;
@@ -65,7 +65,7 @@
 				
 			</style>
 			<div class="container">
-				<h1>Gunichi</h1>
+				<p>Gunichi</p>
 			</div>
 		</div>
 	</foreignObject>
