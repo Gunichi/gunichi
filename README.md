@@ -7,7 +7,7 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 <p align="left">
   
-  ![PHP](https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=777BB4)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=whitee)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=black)
