@@ -1,6 +1,9 @@
 <div align="center">
 	<br>
-		<img src="header.svg" width="800" height="200" alt="Click to see the source">
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
 </div>
 <h1>Bem vindo </h1>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" style="border-radius:50%" align="right" alt="Programming"><br>
@@ -31,7 +34,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-FFFFFF?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
 
-
 <br/>
 
 </p>
@@ -39,13 +41,12 @@
 </a>
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/iuricode/)
 
-
 <br/>
 
-<h3> :earth_americas: &nbsp;Quer bater um papo? Me mande uma mensagem!: </h3> 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Gunichi](https://img.shields.io/badge/-USERNAME-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-gunichi-koyama-a1405a213/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xJpHBmQnz2)
+[![Instagram]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](http://instagram.com/gunichi)
 
 
