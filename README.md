@@ -1,4 +1,4 @@
-<h1>![#f03c15]Seja bem vindo </h1>
+<h1>![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Programming">
 
   Opa, seja bem vindo ao meu perfil! Me chamo Gustavo Gunichi Koyama, atualmente estudo Análise e Desenvolvimento de sistemas e trabalho com desenvolvimento back-end e front-end.
