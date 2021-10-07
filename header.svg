@@ -5,16 +5,7 @@
 			<style>
 				
 				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Roboto',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
+					font-family: 'Roboto'				
 					display: flex;
 					flex-direction: column;
 					align-items: center;
