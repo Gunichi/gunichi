@@ -7,7 +7,7 @@
 </div>
 <h1> 🤙 Bem vindo</h1>
 <img src="https://github.com/Gunichi/gunichi/blob/main/Code%20typing-bro.svg" min-width="400px" max-width="400px" width="400px" style="border-radius:50%" align="right" alt="Programming"><br>
-  Opa, seja bem vindo ao meu perfil! Me chamo Gustavo Gunichi Koyama, atualmente estudo Análise e Desenvolvimento de sistemas e trabalho com desenvolvimento back-end e front-end.
+  Opa, seja bem vindo ao meu perfil! Me chamo Gustavo Gunichi Koyama, atualmente estudo Análise e Desenvolvimento de sistemas e trabalho fullstack.
 
 
 
