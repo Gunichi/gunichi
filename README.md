@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Opa, seja bem vindo ao meu perfil! Me chamo Gustavo Gunichi Koyama, atualmente estudo Análise e Desenvolvimento de sistemas e trabalho com desenvolvimento back-end e front-end.
-</p>
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 <p align="left">
@@ -19,7 +19,7 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   </p>
-***Utilidades*
+***Utilidades**
 
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -39,6 +39,7 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
+</p>
 
 <a href="https://github.com/VanessaSwerts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
@@ -52,6 +53,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
-<div align="center">
-    <img src="header.svg" width="400" height="400" alt="css-in-readme">
-</div>
+
