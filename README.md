@@ -13,7 +13,7 @@
 
 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 <p align="left">
   
   ![PHP](https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=777BB4)
@@ -27,7 +27,7 @@
 
  
 
-<h3>👨‍💻 Ferramentas de Desenvolvimento</h3>
+<h3>👨‍💻 Dev Tools</h3>
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=for-the-badge&logo=visual%20studio&&logoColor=5C2D91)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-FFFFFF?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
@@ -42,7 +42,7 @@
 
 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Send me a message! </h3> 
 
 [![Linkedin: Gunichi](https://img.shields.io/badge/-Gunichi-000001?style=for-the-badge&logo=Linkedin&logoColor=40E0D0&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-gunichi-koyama-a1405a213/)
 [![Discord](https://img.shields.io/badge/Discord-000001?style=for-the-badge&logo=discord&logoColor=40E0D0)](https://discord.gg/xJpHBmQnz2)
