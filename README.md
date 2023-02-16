@@ -5,8 +5,7 @@
 	</a>
 	<br>
 </div>
-<h1> 🤙 Bem vindo</h1>
-### Hi there, I'm Gustavo but usually called as Gunichi
+<h1>Hello.World, I'm Gunichi 🤙 </h1>
 
 - 👨‍💻 I’m currently learning new things
 - 🆕 I'm always open to new ideas
