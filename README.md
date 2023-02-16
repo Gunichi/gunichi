@@ -34,13 +34,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-FFFFFF?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
 
-[![card](https://github-readme-stats.vercel.app/api?username=gunichi&theme=dark)](https://github.com/gunichi/)<br><br>
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gunichi&hide=html&layout=compact&theme=dark)](https://github.com/gunichi/)
-
-<br>
-
-
 
 <h3> :earth_americas: &nbsp;Send me a message! </h3> 
 
