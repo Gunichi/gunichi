@@ -1,7 +1,6 @@
 <h1>Hello.World, I'm Gunichi 🤙 </h1>
 
-<img src="header.svg" width="200" height="200" alt="Gunichi" align="right"/>
-
+<img align="right" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif?fit=1281%2C716&ssl=1" />
 - 👨‍💻 I’m currently learning new things
 - 🆕 I'm always open to new ideas
 - ❤️ I love new challenges, watch movies and play games.
