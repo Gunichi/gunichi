@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gunichi">
 - 👨‍💻 I’m currently learning new things
+
 - 🆕 I'm always open to new ideas
+
 - ❤️ I love new challenges, watch movies and play games.
 
 
