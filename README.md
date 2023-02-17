@@ -24,7 +24,9 @@
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-<h3> :earth_americas: &nbsp;Send me a message! </h3> 
+<p align="left">
+  💌 Send me a message: ⤵️
+</p>
 
 [![Linkedin: Gunichi](https://img.shields.io/badge/-Gunichi-301551?style=for-the-badge&logo=Linkedin&logoColor=ED8A0A&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-gunichi-koyama-a1405a213/)
 [![Discord](https://img.shields.io/badge/Discord-301551?style=for-the-badge&logo=discord&logoColor=ED8A0A)](https://discord.gg/xJpHBmQnz2)
