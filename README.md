@@ -29,15 +29,6 @@
   ![MySQL](https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=00000F)
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
- 
-
-<h3>👨‍💻 Dev Tools</h3>
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=for-the-badge&logo=visual%20studio&&logoColor=5C2D91)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-FFFFFF?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-FFFFFF?style=for-the-badge&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=007ACC)
-
 
 <h3> :earth_americas: &nbsp;Send me a message! </h3> 
 
