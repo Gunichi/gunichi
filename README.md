@@ -1,11 +1,12 @@
+<h1>Hello.World, I'm Gunichi 🤙 </h1>
+
 <div align="center">
 	<br>
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="800" height="200" alt="Gunichi">
+		<img src="header.svg" width="500" height="200" alt="Gunichi">
 	</a>
 	<br>
 </div>
-<h1>Hello.World, I'm Gunichi 🤙 </h1>
 
 - 👨‍💻 I’m currently learning new things
 - 🆕 I'm always open to new ideas
