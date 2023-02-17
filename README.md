@@ -6,7 +6,7 @@
   Hey, welcome to my profile! I'm a Brazilian <b>software engineer</b>, living in Minas Gerais, Brazil. Passionate about building software of all kinds, from web applications to mobile apps. I'm always learning and improving my skills. 
 </p>
 
-<h3> 🤹‍♂️ Some curiosities: </h3>
+<h3 align="left"> 🤹‍♂️ Some curiosities: </h3>
 
 - 👨‍💻 I’m currently learning new things
 
@@ -16,7 +16,7 @@
 
 
 
-<h3>🚀 My Skills </h3>
+<h3 align="left">🚀 My Skills </h3>
 <p align="left">
   
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
