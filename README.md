@@ -6,6 +6,8 @@
   Hey, welcome to my profile! I'm a Brazilian <b>software engineer</b>, living in Minas Gerais, Brazil. Passionate about building software of all kinds, from web applications to mobile apps. I'm always learning and improving my skills. 
 </p>
 
+<h3> 🤹‍♂️ Some curiosities </h3>
+
 - 👨‍💻 I’m currently learning new things
 
 - 🆕 I'm always open to new ideas
