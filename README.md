@@ -1,4 +1,4 @@
-<h1>Hello.World, I'm Gunichi 🤙 </h1>
+<h1>Hello.World! I'm Gunichi 🤙 </h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gunichi">
 - 👨‍💻 I’m currently learning new things
