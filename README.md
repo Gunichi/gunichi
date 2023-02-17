@@ -32,7 +32,7 @@
 
 <h3> :earth_americas: &nbsp;Send me a message! </h3> 
 
-[![Linkedin: Gunichi](https://img.shields.io/badge/-Gunichi-000001?style=for-the-badge&logo=Linkedin&logoColor=40E0D0&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-gunichi-koyama-a1405a213/)
+[![Linkedin: Gunichi](https://img.shields.io/badge/-Gunichi-301551?style=for-the-badge&logo=Linkedin&logoColor=40E0D0&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-gunichi-koyama-a1405a213/)
 [![Discord](https://img.shields.io/badge/Discord-000001?style=for-the-badge&logo=discord&logoColor=40E0D0)](https://discord.gg/xJpHBmQnz2)
 [![Instagram](https://img.shields.io/badge/Instagram-000001?style=for-the-badge&logo=instagram&logoColor=40E0D0)](http://instagram.com/gunichi)
 
