@@ -17,14 +17,19 @@
 <h3> :rocket: &nbsp;My Skills </h3>
 <p align="left">
   
-  ![PHP](https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=777BB4)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=whitee)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![HTML5](https://img.shields.io/badge/HTML-100000?style=for-the-badge&logo=html5&logoColor=E34F26)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-100000?&style=for-the-badge&logo=css3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=sass&logoColor=CC6699)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+	
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+	
   ![MySQL](https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=00000F)
+  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
  
 
