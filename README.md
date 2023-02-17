@@ -24,14 +24,10 @@
 
 <h3> :earth_americas: &nbsp;Send me a message! </h3> 
 
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="200" height="200" alt="Gunichi" align="right />
-	</a>
-	<br>
 <div align="left">
 [![Linkedin: Gunichi](https://img.shields.io/badge/-Gunichi-301551?style=for-the-badge&logo=Linkedin&logoColor=ED8A0A&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gustavo-gunichi-koyama-a1405a213/)
 [![Discord](https://img.shields.io/badge/Discord-301551?style=for-the-badge&logo=discord&logoColor=ED8A0A)](https://discord.gg/xJpHBmQnz2)
 [![Instagram](https://img.shields.io/badge/Instagram-301551?style=for-the-badge&logo=instagram&logoColor=ED8A0A)](http://instagram.com/gunichi)
 </div>
+<img src="header.svg" width="200" height="200" alt="Gunichi" align="right />
 
