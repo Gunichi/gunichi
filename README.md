@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gunichi">
 
 <p align="left"> 
-  Hey, welcome to my profile! I'm a Brazilian <b>software engineer</b>, living in Minas Gerais, Brazil. Passionate about building software of all kinds, from web applications to mobile apps. I'm always learning and improving my skills. 
+  Hey, welcome to my profile! I'm a Brazilian <b>software engineer</b>, living in Minas Gerais, Brazil. Passionate about building software of all kinds, from web applications to mobile apps.
 </p>
 
 <h3 align="left"> 🤹‍♂️ Some curiosities: </h3>
